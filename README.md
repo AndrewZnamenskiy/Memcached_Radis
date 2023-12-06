@@ -91,7 +91,7 @@
 ### Решение 5
 
 
-*Скриншот процедуры инкрементирования ключа на заданноую величину*
+*Скриншот процедуры инкрементирования ключа на заданную величину*
 
 ![Commit Task5](https://github.com/AndrewZnamenskiy/Memcached_Radis/blob/main/img/task5p1.png)
 
